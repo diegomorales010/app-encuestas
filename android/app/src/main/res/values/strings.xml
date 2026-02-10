@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">app-encuestas</string>
+    <string name="title_activity_main">app-encuestas</string>
+    <string name="package_name">sigepo.com.mx</string>
+    <string name="custom_url_scheme">sigepo.com.mx</string>
+</resources>
